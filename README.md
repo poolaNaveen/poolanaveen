@@ -1,10 +1,5 @@
-## Hi there 👋, Naveen
-
-<!--
-**poolaNaveen/poolanaveen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+## Hi there 👋,
+-I'm Naveen Poola — an aspiring Data Engineer with a passion for turning raw data into powerful insights. I love building scalable data pipelines and exploring cloud-native solutions.
 - 🔭 I’m currently working on Building ETL pipelines using Python and Airflow, and exploring cloud data solutions with AWS and GCP.
 - 🌱 I’m currently learning Apache Spark, BigQuery,python, and advanced SQL optimization techniques.
 - 👯 I’m looking to collaborate on Open-source data engineering projects, especially those involving real-time data processing or cloud-native architectures.
